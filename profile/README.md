@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <img src="./logos/capitec.png" alt="Logo" width="128" height="128" />
+  <img src="./profile/logos/capitec.png" alt="Logo" width="128" height="128" />
 </p>
 
 <h3 align="center">Capitec Bank</h3>
@@ -14,11 +14,6 @@
 <a href="https://www.youtube.com/user/TheCapitecBank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://twitter.com/CapitecBankSA"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
-
-<br/>
-
-
----
 
 <br />
 
@@ -59,15 +54,14 @@ We 💖 using and building open source technologies to deliver great client expe
 Have a look at our public repositories below to get started.
 
 <br>
-<br>
 <hr>
 <br>
 <br>
 <br>
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./logos/capitec-logo-white.svg">
-        <img alt="Capitec Logo" src="./logos/capitec-logo-color.svg" height="28">
+        <source media="(prefers-color-scheme: dark)" srcset="./profile/logos/capitec-logo-white.svg">
+        <img alt="Capitec Logo" src="./profile/logos/capitec-logo-color.svg" height="28">
     </picture>
 </p>
 <p align="center">We are hiring 🤝 Join us! 🇿🇦</p>
@@ -75,5 +69,4 @@ Have a look at our public repositories below to get started.
     <a href="https://www.capitecbank.co.za/about-us/careers">https://www.capitecbank.co.za/about-us/careers</a>
 </p>
 
-<br>
 <br>
