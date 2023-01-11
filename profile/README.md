@@ -1,6 +1,3 @@
-
-<br>
-
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capitec/.github/main/profile/logos/capitec-logo-white.svg">
