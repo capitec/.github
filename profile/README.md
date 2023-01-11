@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <img src="./profile/logos/capitec.png" alt="Logo" width="128" height="128" />
+  <img src="https://raw.githubusercontent.com/capitec/.github/main/profile/logos/capitec.png" alt="Logo" width="128" height="128" />
 </p>
 
 <h3 align="center">Capitec Bank</h3>
@@ -60,8 +60,8 @@ Have a look at our public repositories below to get started.
 <br>
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile/logos/capitec-logo-white.svg">
-        <img alt="Capitec Logo" src="./profile/logos/capitec-logo-color.svg" height="28">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capitec/.github/main/profile/logos/capitec-logo-white.svg">
+        <img alt="Capitec Logo" src="https://raw.githubusercontent.com/capitec/.github/main/profile/logos/capitec-logo-color.svg" height="28">
     </picture>
 </p>
 <p align="center">We are hiring 🤝 Join us! 🇿🇦</p>
